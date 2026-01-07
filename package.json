@@ -1,0 +1,25 @@
+{
+  "name": "mission-control",
+  "version": "1.0.0",
+  "description": "\"# Mission_Control\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menachemhershkop/Mission_Control.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/menachemhershkop/Mission_Control/issues"
+  },
+  "homepage": "https://github.com/menachemhershkop/Mission_Control#readme",
+  "dependencies": {
+    "analiza-sync": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
